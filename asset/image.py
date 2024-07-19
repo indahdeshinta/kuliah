@@ -4,3 +4,4 @@ from matplotlib import image as mpimg
 image = mpimg.imread("asset/bg.jpg")
 plt.imshow(image)
 plt.show()
+
