@@ -1,5 +1,5 @@
 import cv2
-import osgit
+import os
 from datetime import datetime
 
 # Load the image
